@@ -1,2 +1,2 @@
-# rete-react-example
+# rete-example
 Created with CodeSandbox
